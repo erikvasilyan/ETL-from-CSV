@@ -1,5 +1,18 @@
 import csv
 
+
+def convertAlumnesDictToCsvAndSave():
+    output_file = 'basket_players_CA.csv'
+
+    with open(output_file, 'w', newline='') as outCsvfile:
+        fieldnames = ['Nom', 'Equip', 'Posicio', 'Altura', 'Pes', 'Edat']
+        writer = csv.DictWriter(outCsvfile, fieldnames=fieldnames)
+
+        writer.writeheader()
+        for alumne in alumnes:
+            writer.writerow(alumne)
+
+
 alumnes = []
 
 with open('basket_players.csv', 'r') as csvfile:
@@ -37,5 +50,4 @@ with open('basket_players.csv', 'r') as csvfile:
 
         alumnes.append(alumne_dict)
 
-for row in alumnes:
-    print(row)
+convertAlumnesDictToCsvAndSave()
