@@ -59,7 +59,6 @@ with open('basket_players.csv', 'r') as csvfile:
         }
 
         players.append(alumne_dict)
-
 print(f"\nRecompte de files: {i}")
 
 convertAlumnesDictToCsvAndSave()
@@ -70,13 +69,13 @@ print(f"\na) Nom del jugador amb el pes més alt:\n{weightMax['Nom']} amb un pes
 heightMin = calculateMinHeight()
 print(f"\nb) Nom del jugador amb l’alçada més petita:\n{heightMin['Nom']} amb una alçada de {heightMin['Altura']} cm")
 
-teamPlayers = defaultdict(list)
+playersByTeam = defaultdict(list)
 for player in players:
     team = player['Equip']
-    teamPlayers[team].append(player)
+    playersByTeam[team].append(player)
 
 print("\nc) Mitjana de pes i alçada de jugador per equip:\n")
-for team, jugadors in sorted(teamPlayers.items()):
+for team, jugadors in sorted(playersByTeam.items()):
     teamWeight = sum(jugador['Pes'] for jugador in jugadors) / len(jugadors)
     teamHeight = sum(jugador['Altura'] for jugador in jugadors) / len(jugadors)
     print(f"Equip: {team}, Mitjana de pes: {teamWeight:.2f} kg, Mitjana d'alçada: {teamHeight:.2f} cm")
