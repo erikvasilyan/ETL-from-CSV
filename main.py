@@ -2,10 +2,46 @@ import csv
 from collections import defaultdict, Counter
 
 
-def convertAlumnesDictToCsvAndSave():
-    output_file = 'basket_players_CA.csv'
+def translateEnCsvToCaAppendingToPlayersList():
+    with open('basket_players.csv', 'r') as csvfile:
+        data = csv.DictReader(csvfile, delimiter=';')
 
-    with open(output_file, 'w', newline='') as outCsvfile:
+        for i, row in enumerate(data):
+            playerName = row['Name']
+            playerTeam = row['Team']
+            playerPosition = row['Position']
+
+            match playerPosition:
+                case 'Point Guard':
+                    playerPosition = 'Base'
+                case 'Shooting Guard':
+                    playerPosition = 'Escorta'
+                case 'Small Forward':
+                    playerPosition = 'Aler'
+                case 'Power Forward':
+                    playerPosition = 'Ala-pivot'
+                case 'Center':
+                    playerPosition = 'Pivot'
+
+            playerHeight = round(float(row['Heigth']) * HEIGHT_CM_MODIFIER, 2)
+            playerWeight = round(float(row['Weigth']) * WEIGHT_KG_MODIFIER, 2)
+            playerAge = round(float(row['Age']))
+
+            student_dict = {
+                'Nom': playerName,
+                'Equip': playerTeam,
+                'Posicio': playerPosition,
+                'Altura': playerHeight,
+                'Pes': playerWeight,
+                'Edat': playerAge
+            }
+
+            players.append(student_dict)
+    print(f"\nRecompte de files: {i}")
+
+
+def convertStudentsListToCsvAndSave():
+    with open(OUT_FILE, 'w', newline='') as outCsvfile:
         fieldnames = ['Nom', 'Equip', 'Posicio', 'Altura', 'Pes', 'Edat']
         writer = csv.DictWriter(outCsvfile, fieldnames=fieldnames, delimiter='^')
         writer.writeheader()
@@ -23,45 +59,19 @@ def calculateMinHeight():
     return minHeight
 
 
+def appendPlayersToTeams():
+    for player in players:
+        playerTeam = player['Equip']
+        playersByTeam[playerTeam].append(player)
+
+
+HEIGHT_CM_MODIFIER = 2.54
+WEIGHT_KG_MODIFIER = 0.45
+OUT_FILE = 'basket_players_CA.csv'
 players = []
 
-with open('basket_players.csv', 'r') as csvfile:
-    data = csv.DictReader(csvfile, delimiter=';')
-
-    for i, row in enumerate(data):
-        name = row['Name']
-        team = row['Team']
-        position = row['Position']
-
-        match position:
-            case 'Point Guard':
-                position = 'Base'
-            case 'Shooting Guard':
-                position = 'Escorta'
-            case 'Small Forward':
-                position = 'Aler'
-            case 'Power Forward':
-                position = 'Ala-pivot'
-            case 'Center':
-                position = 'Pivot'
-
-        height = round(float(row['Heigth']) * 2.54, 2)
-        weight = round(float(row['Weigth']) * 0.45, 2)
-        age = round(float(row['Age']))
-
-        alumne_dict = {
-            'Nom': name,
-            'Equip': team,
-            'Posicio': position,
-            'Altura': height,
-            'Pes': weight,
-            'Edat': age
-        }
-
-        players.append(alumne_dict)
-print(f"\nRecompte de files: {i}")
-
-convertAlumnesDictToCsvAndSave()
+translateEnCsvToCaAppendingToPlayersList()
+convertStudentsListToCsvAndSave()
 
 weightMax = calculateMaxWeight()
 print(f"\na) Nom del jugador amb el pes més alt:\n{weightMax['Nom']} amb un pes de {weightMax['Pes']} kg")
@@ -70,9 +80,7 @@ heightMin = calculateMinHeight()
 print(f"\nb) Nom del jugador amb l’alçada més petita:\n{heightMin['Nom']} amb una alçada de {heightMin['Altura']} cm")
 
 playersByTeam = defaultdict(list)
-for player in players:
-    team = player['Equip']
-    playersByTeam[team].append(player)
+appendPlayersToTeams()
 
 print("\nc) Mitjana de pes i alçada de jugador per equip:\n")
 for team, jugadors in sorted(playersByTeam.items()):
