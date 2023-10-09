@@ -1,0 +1,8274 @@
+[
+    {
+        "Nom": "Adam Donachie",
+        "Equip": "BAL",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "76.95",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Paul Bako",
+        "Equip": "BAL",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "91.91",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Ramon Hernandez",
+        "Equip": "BAL",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "89.78",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Kevin Millar",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "89.78",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Chris Gomez",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "80.37",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Brian Roberts",
+        "Equip": "BAL",
+        "Posicio": "Aler",
+        "Altura": "185.37",
+        "Pes": "75.24",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Miguel Tejada",
+        "Equip": "BAL",
+        "Posicio": "Ala-pivot",
+        "Altura": "185.37",
+        "Pes": "89.35",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Melvin Mora",
+        "Equip": "BAL",
+        "Posicio": "Aler",
+        "Altura": "190.75",
+        "Pes": "85.5",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Aubrey Huff",
+        "Equip": "BAL",
+        "Posicio": "Aler",
+        "Altura": "204.17",
+        "Pes": "98.75",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Adam Stern",
+        "Equip": "BAL",
+        "Posicio": "Escorta",
+        "Altura": "190.75",
+        "Pes": "76.95",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Jeff Fiorentino",
+        "Equip": "BAL",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "80.37",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Freddie Bynum",
+        "Equip": "BAL",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "76.95",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Nick Markakis",
+        "Equip": "BAL",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "79.09",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Brandon Fahey",
+        "Equip": "BAL",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "68.4",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Corey Patterson",
+        "Equip": "BAL",
+        "Posicio": "Escorta",
+        "Altura": "185.37",
+        "Pes": "76.95",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Jay Payton",
+        "Equip": "BAL",
+        "Posicio": "Escorta",
+        "Altura": "188.06",
+        "Pes": "79.09",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Jay Gibbons",
+        "Equip": "BAL",
+        "Posicio": "Aler",
+        "Altura": "193.42",
+        "Pes": "84.22",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Erik Bedard",
+        "Equip": "BAL",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "80.8",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Hayden Penn",
+        "Equip": "BAL",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "79.09",
+        "Edat": "22"
+    },
+    {
+        "Nom": "Adam Loewen",
+        "Equip": "BAL",
+        "Posicio": "Base",
+        "Altura": "209.55",
+        "Pes": "93.62",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Daniel Cabrera",
+        "Equip": "BAL",
+        "Posicio": "Base",
+        "Altura": "212.24",
+        "Pes": "98.33",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Steve Trachsel",
+        "Equip": "BAL",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "87.64",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Jaret Wright",
+        "Equip": "BAL",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "98.33",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Kris Benson",
+        "Equip": "BAL",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "83.36",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Scott Williamson",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "76.95",
+        "Edat": "31"
+    },
+    {
+        "Nom": "John Parrish",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "82.08",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Danys Baez",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "96.19",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Chad Bradford",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "86.78",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Jamie Walker",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "83.36",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Brian Burres",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "77.81",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Kurt Birkins",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "80.37",
+        "Edat": "27"
+    },
+    {
+        "Nom": "James Hoey",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Altura": "209.55",
+        "Pes": "85.5",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Sendy Rleal",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "76.95",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Chris Ray",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "85.5",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Jeremy Guthrie",
+        "Equip": "BAL",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "28"
+    },
+    {
+        "Nom": "A.J. Pierzynski",
+        "Equip": "CWS",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "104.74",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Toby Hall",
+        "Equip": "CWS",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "102.6",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Paul Konerko",
+        "Equip": "CWS",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "91.91",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Tadahito Iguchi",
+        "Equip": "CWS",
+        "Posicio": "Aler",
+        "Altura": "185.37",
+        "Pes": "79.09",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Juan Uribe",
+        "Equip": "CWS",
+        "Posicio": "Ala-pivot",
+        "Altura": "190.75",
+        "Pes": "74.81",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Alex Cintron",
+        "Equip": "CWS",
+        "Posicio": "Ala-pivot",
+        "Altura": "198.81",
+        "Pes": "85.07",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Joe Crede",
+        "Equip": "CWS",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Josh Fields",
+        "Equip": "CWS",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "91.91",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Ryan Sweeney",
+        "Equip": "CWS",
+        "Posicio": "Escorta",
+        "Altura": "204.17",
+        "Pes": "85.5",
+        "Edat": "22"
+    },
+    {
+        "Nom": "Brian N. Anderson",
+        "Equip": "CWS",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "87.64",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Luis Terrero",
+        "Equip": "CWS",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "88.06",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Pablo Ozuna",
+        "Equip": "CWS",
+        "Posicio": "Escorta",
+        "Altura": "188.06",
+        "Pes": "79.52",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Scott Podsednik",
+        "Equip": "CWS",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "80.37",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Jermaine Dye",
+        "Equip": "CWS",
+        "Posicio": "Escorta",
+        "Altura": "206.86",
+        "Pes": "94.05",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Darin Erstad",
+        "Equip": "CWS",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "89.78",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Rob Mackowiak",
+        "Equip": "CWS",
+        "Posicio": "Escorta",
+        "Altura": "188.06",
+        "Pes": "83.36",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Jim Thome",
+        "Equip": "CWS",
+        "Posicio": "Aler",
+        "Altura": "204.17",
+        "Pes": "104.31",
+        "Edat": "37"
+    },
+    {
+        "Nom": "Jerry Owens",
+        "Equip": "CWS",
+        "Posicio": "Aler",
+        "Altura": "201.5",
+        "Pes": "83.36",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Charlie Haeger",
+        "Equip": "CWS",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Heath Phillips",
+        "Equip": "CWS",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "85.5",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Gavin Floyd",
+        "Equip": "CWS",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "90.63",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Jose Contreras",
+        "Equip": "CWS",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "95.76",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Jon Garland",
+        "Equip": "CWS",
+        "Posicio": "Base",
+        "Altura": "209.55",
+        "Pes": "89.78",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Javier Vazquez",
+        "Equip": "CWS",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "87.64",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Mark Buehrle",
+        "Equip": "CWS",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "94.05",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Mike MacDougal",
+        "Equip": "CWS",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "83.36",
+        "Edat": "30"
+    },
+    {
+        "Nom": "David Aardsma",
+        "Equip": "CWS",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "85.5",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Andrew Sisco",
+        "Equip": "CWS",
+        "Posicio": "Pivot",
+        "Altura": "217.6",
+        "Pes": "111.15",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Matt Thornton",
+        "Equip": "CWS",
+        "Posicio": "Pivot",
+        "Altura": "209.55",
+        "Pes": "97.47",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Bobby Jenks",
+        "Equip": "CWS",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "115.42",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Boone Logan",
+        "Equip": "CWS",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "85.5",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Sean Tracey",
+        "Equip": "CWS",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "89.78",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Nick Masset",
+        "Equip": "CWS",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "81.23",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Jose Molina",
+        "Equip": "ANA",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "94.05",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Jeff Mathis",
+        "Equip": "ANA",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "76.95",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Mike Napoli",
+        "Equip": "ANA",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "87.64",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Casey Kotchman",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "89.78",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Kendry Morales",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "94.05",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Shea Hillenbrand",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "90.2",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Robb Quinlan",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Howie Kendrick",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Altura": "188.06",
+        "Pes": "76.95",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Orlando Cabrera",
+        "Equip": "ANA",
+        "Posicio": "Ala-pivot",
+        "Altura": "188.06",
+        "Pes": "81.23",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Erick Aybar",
+        "Equip": "ANA",
+        "Posicio": "Ala-pivot",
+        "Altura": "188.06",
+        "Pes": "72.67",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Dallas McPherson",
+        "Equip": "ANA",
+        "Posicio": "Aler",
+        "Altura": "204.17",
+        "Pes": "98.33",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Maicer Izturis",
+        "Equip": "ANA",
+        "Posicio": "Aler",
+        "Altura": "182.68",
+        "Pes": "66.26",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Reggie Willits",
+        "Equip": "ANA",
+        "Posicio": "Escorta",
+        "Altura": "190.75",
+        "Pes": "79.09",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Tommy Murphy",
+        "Equip": "ANA",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "79.09",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Terry Evans",
+        "Equip": "ANA",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "85.5",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Gary Matthews Jr.",
+        "Equip": "ANA",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "96.19",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Garret Anderson",
+        "Equip": "ANA",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "96.19",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Vladimir Guerrero",
+        "Equip": "ANA",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "94.05",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Chone Figgins",
+        "Equip": "ANA",
+        "Posicio": "Escorta",
+        "Altura": "182.68",
+        "Pes": "68.4",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Juan Rivera",
+        "Equip": "ANA",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "87.64",
+        "Edat": "29"
+    },
+    {
+        "Nom": "John Lackey",
+        "Equip": "ANA",
+        "Posicio": "Base",
+        "Altura": "209.55",
+        "Pes": "100.46",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Bartolo Colon",
+        "Equip": "ANA",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "106.88",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Kelvim Escobar",
+        "Equip": "ANA",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "89.78",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Dustin Moseley",
+        "Equip": "ANA",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "81.23",
+        "Edat": "38"
+    },
+    {
+        "Nom": "Ervin Santana",
+        "Equip": "ANA",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "68.4",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Joe Saunders",
+        "Equip": "ANA",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Jered Weaver",
+        "Equip": "ANA",
+        "Posicio": "Base",
+        "Altura": "212.24",
+        "Pes": "87.64",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Chris Resop",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "94.91",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Phil Seibel",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "83.36",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Justin Speier",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "87.64",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Darren Oliver",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "94.05",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Hector Carrasco",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "94.05",
+        "Edat": "37"
+    },
+    {
+        "Nom": "Scot Shields",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "72.67",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Francisco Rodriguez",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "79.09",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Greg Jones",
+        "Equip": "ANA",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "83.36",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Doug Mirabelli",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "94.05",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Jason Varitek",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "98.33",
+        "Edat": "35"
+    },
+    {
+        "Nom": "George Kottaras",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "76.95",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Kevin Youkilis",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "94.05",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Dustin Pedroia",
+        "Equip": "BOS",
+        "Posicio": "Aler",
+        "Altura": "185.37",
+        "Pes": "76.95",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Alex Cora",
+        "Equip": "BOS",
+        "Posicio": "Ala-pivot",
+        "Altura": "193.42",
+        "Pes": "76.95",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Julio Lugo",
+        "Equip": "BOS",
+        "Posicio": "Ala-pivot",
+        "Altura": "196.11",
+        "Pes": "72.67",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Mike Lowell",
+        "Equip": "BOS",
+        "Posicio": "Aler",
+        "Altura": "201.5",
+        "Pes": "89.78",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Wily Mo Pe?a",
+        "Equip": "BOS",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "91.91",
+        "Edat": "25"
+    },
+    {
+        "Nom": "J.D. Drew",
+        "Equip": "BOS",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Manny Ramirez",
+        "Equip": "BOS",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "91.06",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Brandon Moss",
+        "Equip": "BOS",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "76.95",
+        "Edat": "23"
+    },
+    {
+        "Nom": "David Murphy",
+        "Equip": "BOS",
+        "Posicio": "Escorta",
+        "Altura": "204.17",
+        "Pes": "82.08",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Eric Hinske",
+        "Equip": "BOS",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "100.46",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Coco Crisp",
+        "Equip": "BOS",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "79.09",
+        "Edat": "27"
+    },
+    {
+        "Nom": "David Ortiz",
+        "Equip": "BOS",
+        "Posicio": "Aler",
+        "Altura": "204.17",
+        "Pes": "98.33",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Curt Schilling",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Altura": "206.86",
+        "Pes": "100.46",
+        "Edat": "40"
+    },
+    {
+        "Nom": "Tim Wakefield",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "89.78",
+        "Edat": "41"
+    },
+    {
+        "Nom": "Josh Beckett",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Altura": "206.86",
+        "Pes": "94.91",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Matt Clement",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "89.78",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Jonathan Papelbon",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "98.33",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Kyle Snyder",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Altura": "214.93",
+        "Pes": "94.05",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Devern Hansack",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "76.95",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Jon Lester",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "81.23",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Kason Gabbard",
+        "Equip": "BOS",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "85.5",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Craig Hansen",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Altura": "209.55",
+        "Pes": "89.78",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Hideki Okajima",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "82.94",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Craig Breslow",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "76.95",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Manny Delcarmen",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "81.23",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Brendan Donnelly",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "102.6",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Javier Lopez",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "85.5",
+        "Edat": "30"
+    },
+    {
+        "Nom": "J.C. Romero",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "84.64",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Joel Pineiro",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Julian Tavarez",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "83.36",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Mike Timlin",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "89.78",
+        "Edat": "41"
+    },
+    {
+        "Nom": "Nick DeBarr",
+        "Equip": "BOS",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "94.05",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Victor Martinez",
+        "Equip": "CLE",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "81.23",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Kelly Shoppach",
+        "Equip": "CLE",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "89.78",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Ryan Garko",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "96.19",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Joe Inglett",
+        "Equip": "CLE",
+        "Posicio": "Aler",
+        "Altura": "188.06",
+        "Pes": "76.95",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Josh Barfield",
+        "Equip": "CLE",
+        "Posicio": "Aler",
+        "Altura": "193.42",
+        "Pes": "79.09",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Hector Luna",
+        "Equip": "CLE",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "72.67",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Jhonny Peralta",
+        "Equip": "CLE",
+        "Posicio": "Ala-pivot",
+        "Altura": "196.11",
+        "Pes": "79.09",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Andy Marte",
+        "Equip": "CLE",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "79.09",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Ben Francisco",
+        "Equip": "CLE",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "76.95",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Shin-Soo Choo",
+        "Equip": "CLE",
+        "Posicio": "Escorta",
+        "Altura": "190.75",
+        "Pes": "76.09",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Franklin Gutierrez",
+        "Equip": "CLE",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "74.81",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Grady Sizemore",
+        "Equip": "CLE",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Jason Michaels",
+        "Equip": "CLE",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "87.21",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Trot Nixon",
+        "Equip": "CLE",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "90.2",
+        "Edat": "33"
+    },
+    {
+        "Nom": "David Dellucci",
+        "Equip": "CLE",
+        "Posicio": "Escorta",
+        "Altura": "190.75",
+        "Pes": "81.23",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Casey Blake",
+        "Equip": "CLE",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "89.78",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Travis Hafner",
+        "Equip": "CLE",
+        "Posicio": "Aler",
+        "Altura": "201.5",
+        "Pes": "102.6",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Paul Byrd",
+        "Equip": "CLE",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Cliff Lee",
+        "Equip": "CLE",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "81.23",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Jake Westbrook",
+        "Equip": "CLE",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "79.09",
+        "Edat": "29"
+    },
+    {
+        "Nom": "C.C. Sabathia",
+        "Equip": "CLE",
+        "Posicio": "Base",
+        "Altura": "212.24",
+        "Pes": "123.98",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Jeremy Sowers",
+        "Equip": "CLE",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "74.81",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Rafael Perez",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "79.09",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Brian Slocum",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "85.5",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Edward Mujica",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "94.05",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Fernando Cabrera",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "72.67",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Tom Mastny",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Altura": "209.55",
+        "Pes": "94.05",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Juan Lara",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "81.23",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Fausto Carmona",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "94.05",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Aaron Fultz",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "87.64",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Rafael Betancourt",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Roberto Hernandez",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "106.88",
+        "Edat": "42"
+    },
+    {
+        "Nom": "Joe Borowski",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "96.19",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Matt Miller",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "91.91",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Jason Davis",
+        "Equip": "CLE",
+        "Posicio": "Pivot",
+        "Altura": "209.55",
+        "Pes": "89.78",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Mike Piazza",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "91.91",
+        "Edat": "38"
+    },
+    {
+        "Nom": "Jason Kendall",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "83.36",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Adam Melhuse",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Nick Swisher",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "82.94",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Dan Johnson",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "94.05",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Donald Murphy",
+        "Equip": "OAK",
+        "Posicio": "Aler",
+        "Altura": "188.06",
+        "Pes": "76.95",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Mark Ellis",
+        "Equip": "OAK",
+        "Posicio": "Aler",
+        "Altura": "190.75",
+        "Pes": "76.95",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Marco Scutaro",
+        "Equip": "OAK",
+        "Posicio": "Ala-pivot",
+        "Altura": "188.06",
+        "Pes": "72.67",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Bobby Crosby",
+        "Equip": "OAK",
+        "Posicio": "Ala-pivot",
+        "Altura": "201.5",
+        "Pes": "83.36",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Mark Kiger",
+        "Equip": "OAK",
+        "Posicio": "Ala-pivot",
+        "Altura": "190.75",
+        "Pes": "76.95",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Antonio Perez",
+        "Equip": "OAK",
+        "Posicio": "Aler",
+        "Altura": "190.75",
+        "Pes": "72.67",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Eric Chavez",
+        "Equip": "OAK",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "88.06",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Milton Bradley",
+        "Equip": "OAK",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "87.64",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Shannon Stewart",
+        "Equip": "OAK",
+        "Posicio": "Escorta",
+        "Altura": "190.75",
+        "Pes": "85.5",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Bobby Kielty",
+        "Equip": "OAK",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "96.19",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Mark Kotsay",
+        "Equip": "OAK",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "85.93",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Ryan Goleski",
+        "Equip": "OAK",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "96.19",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Jeremy Brown",
+        "Equip": "OAK",
+        "Posicio": "Aler",
+        "Altura": "188.06",
+        "Pes": "96.61",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Jason Windsor",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "99.61",
+        "Edat": "25"
+    },
+    {
+        "Nom": "David Shafer",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "76.95",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Joe Blanton",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "96.19",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Brad Halsey",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "76.95",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Dan Haren",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Altura": "206.86",
+        "Pes": "94.05",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Rich Harden",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "76.95",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Joe Kennedy",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "101.32",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Esteban Loaiza",
+        "Equip": "OAK",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "91.91",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Alan Embree",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "81.23",
+        "Edat": "37"
+    },
+    {
+        "Nom": "Jay Witasick",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "100.46",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Justin Duchscherer",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "81.23",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Kiko Calero",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "76.95",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Chad Gaudin",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "70.54",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Lenny DiNardo",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "83.36",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Scott Dunn",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "85.5",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Huston Street",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "81.23",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Ron Flores",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "81.23",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Jay Marshall",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "79.09",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Marcus McBeth",
+        "Equip": "OAK",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "79.09",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Jorge Posada",
+        "Equip": "NYY",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "87.64",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Wil Nieves",
+        "Equip": "NYY",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "81.23",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Andy Phillips",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "87.64",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Doug Mientkiewicz",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "88.06",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Josh Phelps",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "94.05",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Miguel Cairo",
+        "Equip": "NYY",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "88.92",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Robinson Cano",
+        "Equip": "NYY",
+        "Posicio": "Aler",
+        "Altura": "193.42",
+        "Pes": "72.67",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Derek Jeter",
+        "Equip": "NYY",
+        "Posicio": "Ala-pivot",
+        "Altura": "201.5",
+        "Pes": "83.36",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Alex Rodriguez",
+        "Equip": "NYY",
+        "Posicio": "Aler",
+        "Altura": "201.5",
+        "Pes": "89.78",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Johnny Damon",
+        "Equip": "NYY",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "81.23",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Bobby Abreu",
+        "Equip": "NYY",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "90.2",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Hideki Matsui",
+        "Equip": "NYY",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "98.33",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Melky Cabrera",
+        "Equip": "NYY",
+        "Posicio": "Escorta",
+        "Altura": "190.75",
+        "Pes": "72.67",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Kevin Thompson",
+        "Equip": "NYY",
+        "Posicio": "Escorta",
+        "Altura": "188.06",
+        "Pes": "79.09",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Jason Giambi",
+        "Equip": "NYY",
+        "Posicio": "Aler",
+        "Altura": "201.5",
+        "Pes": "98.33",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Mike Mussina",
+        "Equip": "NYY",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "79.09",
+        "Edat": "38"
+    },
+    {
+        "Nom": "Carl Pavano",
+        "Equip": "NYY",
+        "Posicio": "Base",
+        "Altura": "206.86",
+        "Pes": "103.03",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Andy Pettitte",
+        "Equip": "NYY",
+        "Posicio": "Base",
+        "Altura": "206.86",
+        "Pes": "96.19",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Darrell Rasner",
+        "Equip": "NYY",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "89.78",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Jeff Karstens",
+        "Equip": "NYY",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "74.81",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Humberto Sanchez",
+        "Equip": "NYY",
+        "Posicio": "Base",
+        "Altura": "209.55",
+        "Pes": "98.33",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Chien-Ming Wang",
+        "Equip": "NYY",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "85.5",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Sean Henn",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "91.91",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Scott Proctor",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "84.64",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Brian Bruney",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "96.61",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Chris Britton",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "118.85",
+        "Edat": "24"
+    },
+    {
+        "Nom": "T.J. Beam",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Altura": "212.24",
+        "Pes": "91.91",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Jose Veras",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "98.33",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Kyle Farnsworth",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "102.6",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Luis Vizcaino",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "78.66",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Mike Myers",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "93.62",
+        "Edat": "38"
+    },
+    {
+        "Nom": "Mariano Rivera",
+        "Equip": "NYY",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "72.67",
+        "Edat": "37"
+    },
+    {
+        "Nom": "Ivan Rodriguez",
+        "Equip": "DET",
+        "Posicio": "Base",
+        "Altura": "185.37",
+        "Pes": "93.19",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Vance Wilson",
+        "Equip": "DET",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "81.23",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Sean Casey",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "96.19",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Chris Shelton",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "94.05",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Omar Infante",
+        "Equip": "DET",
+        "Posicio": "Aler",
+        "Altura": "193.42",
+        "Pes": "75.24",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Placido Polanco",
+        "Equip": "DET",
+        "Posicio": "Aler",
+        "Altura": "188.06",
+        "Pes": "81.23",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Neifi Perez",
+        "Equip": "DET",
+        "Posicio": "Aler",
+        "Altura": "193.42",
+        "Pes": "84.22",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Carlos Guillen",
+        "Equip": "DET",
+        "Posicio": "Ala-pivot",
+        "Altura": "196.11",
+        "Pes": "87.21",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Ramon Santiago",
+        "Equip": "DET",
+        "Posicio": "Ala-pivot",
+        "Altura": "190.75",
+        "Pes": "71.39",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Tony Giarratano",
+        "Equip": "DET",
+        "Posicio": "Ala-pivot",
+        "Altura": "193.42",
+        "Pes": "76.95",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Brandon Inge",
+        "Equip": "DET",
+        "Posicio": "Aler",
+        "Altura": "190.75",
+        "Pes": "83.36",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Craig Monroe",
+        "Equip": "DET",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "94.05",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Magglio Ordo?ez",
+        "Equip": "DET",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "91.91",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Curtis Granderson",
+        "Equip": "DET",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "79.09",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Brent Clevlen",
+        "Equip": "DET",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "81.23",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Marcus Thames",
+        "Equip": "DET",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "87.64",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Gary Sheffield",
+        "Equip": "DET",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "87.64",
+        "Edat": "38"
+    },
+    {
+        "Nom": "Mike Rabelo",
+        "Equip": "DET",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Zach Miner",
+        "Equip": "DET",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "85.5",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Jeremy Bonderman",
+        "Equip": "DET",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "89.78",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Nate Robertson",
+        "Equip": "DET",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "91.91",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Justin Verlander",
+        "Equip": "DET",
+        "Posicio": "Base",
+        "Altura": "206.86",
+        "Pes": "85.5",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Virgil Vasquez",
+        "Equip": "DET",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "87.64",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Kenny Rogers",
+        "Equip": "DET",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "90.2",
+        "Edat": "42"
+    },
+    {
+        "Nom": "Mike Maroth",
+        "Equip": "DET",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "81.23",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Fernando Rodney",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "88.92",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Chad Durbin",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Jason Grilli",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "89.78",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Jose Mesa",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "99.18",
+        "Edat": "41"
+    },
+    {
+        "Nom": "Todd Jones",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "98.33",
+        "Edat": "39"
+    },
+    {
+        "Nom": "Joel Zumaya",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "89.78",
+        "Edat": "22"
+    },
+    {
+        "Nom": "Jordan Tata",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Altura": "209.55",
+        "Pes": "94.05",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Andrew Miller",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Altura": "209.55",
+        "Pes": "89.78",
+        "Edat": "22"
+    },
+    {
+        "Nom": "Yorman Bazardo",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "86.36",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Wilfredo Ledezma",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "90.63",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Roman Colon",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Altura": "209.55",
+        "Pes": "96.19",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Edward Campusano",
+        "Equip": "DET",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "72.67",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Rene Rivera",
+        "Equip": "SEA",
+        "Posicio": "Base",
+        "Altura": "188.06",
+        "Pes": "81.23",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Kenji Johjima",
+        "Equip": "SEA",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "85.5",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Richie Sexson",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Altura": "214.93",
+        "Pes": "101.32",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Ben Broussard",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "94.05",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Jose Lopez",
+        "Equip": "SEA",
+        "Posicio": "Aler",
+        "Altura": "198.81",
+        "Pes": "72.67",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Jose Vidro",
+        "Equip": "SEA",
+        "Posicio": "Aler",
+        "Altura": "190.75",
+        "Pes": "82.51",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Yuniesky Betancourt",
+        "Equip": "SEA",
+        "Posicio": "Ala-pivot",
+        "Altura": "188.06",
+        "Pes": "81.23",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Oswaldo Navarro",
+        "Equip": "SEA",
+        "Posicio": "Ala-pivot",
+        "Altura": "193.42",
+        "Pes": "64.12",
+        "Edat": "22"
+    },
+    {
+        "Nom": "Adrian Beltre",
+        "Equip": "SEA",
+        "Posicio": "Aler",
+        "Altura": "190.75",
+        "Pes": "94.05",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Raul Ibanez",
+        "Equip": "SEA",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Jose Guillen",
+        "Equip": "SEA",
+        "Posicio": "Escorta",
+        "Altura": "190.75",
+        "Pes": "81.23",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Jeremy Reed",
+        "Equip": "SEA",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "79.09",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Willie Bloomquist",
+        "Equip": "SEA",
+        "Posicio": "Escorta",
+        "Altura": "190.75",
+        "Pes": "79.09",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Adam Jones",
+        "Equip": "SEA",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "22"
+    },
+    {
+        "Nom": "Ichiro Suzuki",
+        "Equip": "SEA",
+        "Posicio": "Escorta",
+        "Altura": "185.37",
+        "Pes": "73.53",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Mike Morse",
+        "Equip": "SEA",
+        "Posicio": "Escorta",
+        "Altura": "204.17",
+        "Pes": "94.05",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Felix Hernandez",
+        "Equip": "SEA",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "96.19",
+        "Edat": "21"
+    },
+    {
+        "Nom": "Ryan Feierabend",
+        "Equip": "SEA",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "81.23",
+        "Edat": "22"
+    },
+    {
+        "Nom": "Sean White",
+        "Equip": "SEA",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "83.36",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Horacio Ramirez",
+        "Equip": "SEA",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "93.62",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Cha Baek",
+        "Equip": "SEA",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "81.23",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Miguel Batista",
+        "Equip": "SEA",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "84.22",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Jeff Weaver",
+        "Equip": "SEA",
+        "Posicio": "Base",
+        "Altura": "206.86",
+        "Pes": "85.5",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Jarrod Washburn",
+        "Equip": "SEA",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "83.36",
+        "Edat": "33"
+    },
+    {
+        "Nom": "George Sherrill",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "89.78",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Julio Mateo",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "75.67",
+        "Edat": "30"
+    },
+    {
+        "Nom": "J.J. Putz",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "94.05",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Chris Reitsma",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "100.46",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Cesar Jimenez",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "76.95",
+        "Edat": "22"
+    },
+    {
+        "Nom": "Eric O'Flaherty",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "83.36",
+        "Edat": "22"
+    },
+    {
+        "Nom": "Jon Huber",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "83.36",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Jake Woods",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Sean Green",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Altura": "209.55",
+        "Pes": "98.33",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Mark Lowe",
+        "Equip": "SEA",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "81.23",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Josh Paul",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Dioner Navarro",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Altura": "188.06",
+        "Pes": "81.23",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Shawn Riggans",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "81.23",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Ty Wigginton",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "85.5",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Brendan Harris",
+        "Equip": "TB",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Jorge Cantu",
+        "Equip": "TB",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "78.66",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Ben Zobrist",
+        "Equip": "TB",
+        "Posicio": "Ala-pivot",
+        "Altura": "201.5",
+        "Pes": "85.5",
+        "Edat": "26"
+    },
+    {
+        "Nom": "B.J. Upton",
+        "Equip": "TB",
+        "Posicio": "Aler",
+        "Altura": "201.5",
+        "Pes": "76.95",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Carl Crawford",
+        "Equip": "TB",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "93.62",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Rocco Baldelli",
+        "Equip": "TB",
+        "Posicio": "Escorta",
+        "Altura": "204.17",
+        "Pes": "79.94",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Greg Norton",
+        "Equip": "TB",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Elijah Dukes",
+        "Equip": "TB",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "94.05",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Delmon Young",
+        "Equip": "TB",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "87.64",
+        "Edat": "21"
+    },
+    {
+        "Nom": "Jonny Gomes",
+        "Equip": "TB",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "87.64",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Edwin Jackson",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "81.23",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Scott Kazmir",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "72.67",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Casey Fossum",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "68.4",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Jae Seo",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "91.91",
+        "Edat": "30"
+    },
+    {
+        "Nom": "J.P. Howell",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "74.81",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Tim Corcoran",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "87.64",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Jason Hammel",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Altura": "209.55",
+        "Pes": "85.5",
+        "Edat": "24"
+    },
+    {
+        "Nom": "James Shields",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "91.49",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Brian Stokes",
+        "Equip": "TB",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Juan Salas",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "81.23",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Jeff Ridgway",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "76.95",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Ruddy Lugo",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Altura": "188.06",
+        "Pes": "87.64",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Jae-Kuk Ryu",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "94.05",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Chad Orvella",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "81.23",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Dan Miceli",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "91.91",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Seth McClung",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Altura": "209.55",
+        "Pes": "100.46",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Jon Switzer",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "81.65",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Shawn Camp",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Scott Dohmann",
+        "Equip": "TB",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "77.38",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Jason LaRue",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "85.5",
+        "Edat": "33"
+    },
+    {
+        "Nom": "John Buck",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "89.78",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Ryan Shealy",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "102.6",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Ross Gload",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "79.09",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Esteban German",
+        "Equip": "KC",
+        "Posicio": "Aler",
+        "Altura": "185.37",
+        "Pes": "70.54",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Mark Grudzielanek",
+        "Equip": "KC",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "37"
+    },
+    {
+        "Nom": "Angel Sanchez",
+        "Equip": "KC",
+        "Posicio": "Aler",
+        "Altura": "198.81",
+        "Pes": "79.09",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Angel Berroa",
+        "Equip": "KC",
+        "Posicio": "Ala-pivot",
+        "Altura": "193.42",
+        "Pes": "74.81",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Andres Blanco",
+        "Equip": "KC",
+        "Posicio": "Ala-pivot",
+        "Altura": "188.06",
+        "Pes": "66.26",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Mark Teahen",
+        "Equip": "KC",
+        "Posicio": "Aler",
+        "Altura": "201.5",
+        "Pes": "89.78",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Joey Gathright",
+        "Equip": "KC",
+        "Posicio": "Escorta",
+        "Altura": "188.06",
+        "Pes": "72.67",
+        "Edat": "26"
+    },
+    {
+        "Nom": "David DeJesus",
+        "Equip": "KC",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "74.81",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Shane Costa",
+        "Equip": "KC",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "94.05",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Mitch Maier",
+        "Equip": "KC",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "89.78",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Reggie Sanders",
+        "Equip": "KC",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "87.64",
+        "Edat": "39"
+    },
+    {
+        "Nom": "Emil Brown",
+        "Equip": "KC",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Mike Sweeney",
+        "Equip": "KC",
+        "Posicio": "Aler",
+        "Altura": "201.5",
+        "Pes": "96.19",
+        "Edat": "34"
+    },
+    {
+        "Nom": "John Bale",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "87.64",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Luke Hudson",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "83.36",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Scott Elarton",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Altura": "214.93",
+        "Pes": "102.6",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Odalis Perez",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "64.12",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Gil Meche",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "85.5",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Neal Musser",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "91.91",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Brian Bannister",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "86.36",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Zack Greinke",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Jorge De La Rosa",
+        "Equip": "KC",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Todd Wellemeyer",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "87.64",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Jimmy Gobble",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "81.23",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Joel Peralta",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "68.4",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Ryan Braun",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "91.91",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Joakim Soria",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "79.09",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Ken Ray",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "32"
+    },
+    {
+        "Nom": "David Riske",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "81.23",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Octavio Dotel",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "89.78",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Joe Nelson",
+        "Equip": "KC",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "79.09",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Gerald Laird",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "94.05",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Miguel Ojeda",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "81.23",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Guillermo Quiroz",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "86.36",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Chris Stewart",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "87.64",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Mark Teixeira",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "94.05",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Ian Kinsler",
+        "Equip": "TEX",
+        "Posicio": "Aler",
+        "Altura": "193.42",
+        "Pes": "74.81",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Joaquin Arias",
+        "Equip": "TEX",
+        "Posicio": "Ala-pivot",
+        "Altura": "196.11",
+        "Pes": "68.4",
+        "Edat": "22"
+    },
+    {
+        "Nom": "Michael Young",
+        "Equip": "TEX",
+        "Posicio": "Ala-pivot",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Hank Blalock",
+        "Equip": "TEX",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Marlon Byrd",
+        "Equip": "TEX",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "97.9",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Brad Wilkerson",
+        "Equip": "TEX",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "88.06",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Sammy Sosa",
+        "Equip": "TEX",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "94.05",
+        "Edat": "38"
+    },
+    {
+        "Nom": "Kenny Lofton",
+        "Equip": "TEX",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "76.95",
+        "Edat": "40"
+    },
+    {
+        "Nom": "Frank Catalanotto",
+        "Equip": "TEX",
+        "Posicio": "Escorta",
+        "Altura": "190.75",
+        "Pes": "83.36",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Nelson Cruz",
+        "Equip": "TEX",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "74.81",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Jason Botts",
+        "Equip": "TEX",
+        "Posicio": "Aler",
+        "Altura": "206.86",
+        "Pes": "106.88",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Robinson Tejeda",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "80.37",
+        "Edat": "25"
+    },
+    {
+        "Nom": "John Rheinecker",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "98.33",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Edinson Volquez",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "24"
+    },
+    {
+        "Nom": "A.J. Murray",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "85.5",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Brandon McCarthy",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Altura": "212.24",
+        "Pes": "81.23",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Vicente Padilla",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "93.62",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Kevin Millwood",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "100.46",
+        "Edat": "32"
+    },
+    {
+        "Nom": "John Koronka",
+        "Equip": "TEX",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "76.95",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Frank Francisco",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "76.95",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Francisco Cruceta",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "76.95",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Akinori Otsuka",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "85.5",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Eric Gagne",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "100.04",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Ron Mahay",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "79.09",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Joaquin Benoit",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "94.05",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Rick Bauer",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Altura": "209.55",
+        "Pes": "95.33",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Josh Rupe",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Wes Littleton",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "89.78",
+        "Edat": "24"
+    },
+    {
+        "Nom": "C.J. Wilson",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Scott Feldman",
+        "Equip": "TEX",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "89.78",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Gregg Zaun",
+        "Equip": "TOR",
+        "Posicio": "Base",
+        "Altura": "188.06",
+        "Pes": "81.23",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Jason Phillips",
+        "Equip": "TOR",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "75.67",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Lyle Overbay",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "97.04",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Russ Adams",
+        "Equip": "TOR",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "76.95",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Aaron Hill",
+        "Equip": "TOR",
+        "Posicio": "Aler",
+        "Altura": "190.75",
+        "Pes": "83.36",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Jason Smith",
+        "Equip": "TOR",
+        "Posicio": "Aler",
+        "Altura": "201.5",
+        "Pes": "85.07",
+        "Edat": "30"
+    },
+    {
+        "Nom": "John McDonald",
+        "Equip": "TOR",
+        "Posicio": "Ala-pivot",
+        "Altura": "190.75",
+        "Pes": "74.81",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Royce Clayton",
+        "Equip": "TOR",
+        "Posicio": "Ala-pivot",
+        "Altura": "193.42",
+        "Pes": "79.09",
+        "Edat": "37"
+    },
+    {
+        "Nom": "Troy Glaus",
+        "Equip": "TOR",
+        "Posicio": "Aler",
+        "Altura": "206.86",
+        "Pes": "102.6",
+        "Edat": "31"
+    },
+    {
+        "Nom": "John Hattig",
+        "Equip": "TOR",
+        "Posicio": "Aler",
+        "Altura": "198.81",
+        "Pes": "89.78",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Reed Johnson",
+        "Equip": "TOR",
+        "Posicio": "Escorta",
+        "Altura": "188.06",
+        "Pes": "76.95",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Alex Rios",
+        "Equip": "TOR",
+        "Posicio": "Escorta",
+        "Altura": "206.86",
+        "Pes": "82.94",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Vernon Wells",
+        "Equip": "TOR",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "96.19",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Frank Thomas",
+        "Equip": "TOR",
+        "Posicio": "Aler",
+        "Altura": "206.86",
+        "Pes": "117.56",
+        "Edat": "39"
+    },
+    {
+        "Nom": "Adam Lind",
+        "Equip": "TOR",
+        "Posicio": "Aler",
+        "Altura": "198.81",
+        "Pes": "83.36",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Shaun Marcum",
+        "Equip": "TOR",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "76.95",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Casey Janssen",
+        "Equip": "TOR",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "87.64",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Gustavo Chacin",
+        "Equip": "TOR",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "82.51",
+        "Edat": "26"
+    },
+    {
+        "Nom": "A.J. Burnett",
+        "Equip": "TOR",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "98.33",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Roy Halladay",
+        "Equip": "TOR",
+        "Posicio": "Base",
+        "Altura": "209.55",
+        "Pes": "98.33",
+        "Edat": "30"
+    },
+    {
+        "Nom": "John Thomson",
+        "Equip": "TOR",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "94.05",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Tomo Ohka",
+        "Equip": "TOR",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "31"
+    },
+    {
+        "Nom": "B.J. Ryan",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Altura": "209.55",
+        "Pes": "106.45",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Scott Downs",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "81.23",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Brian Tallet",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Altura": "212.24",
+        "Pes": "88.92",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Matt Roney",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "104.74",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Tracy Thorpe",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "106.88",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Jean Machi",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "68.4",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Brandon League",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "82.08",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Dustin McGowan",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "94.05",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Jason Frasor",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Altura": "188.06",
+        "Pes": "72.67",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Francisco Rosario",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "84.22",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Davis Romero",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Altura": "188.06",
+        "Pes": "66.26",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Jeremy Accardo",
+        "Equip": "TOR",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "81.23",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Mike Redmond",
+        "Equip": "MIN",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "85.5",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Joe Mauer",
+        "Equip": "MIN",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "94.05",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Chris Heintz",
+        "Equip": "MIN",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "89.78",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Justin Morneau",
+        "Equip": "MIN",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "97.47",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Luis Castillo",
+        "Equip": "MIN",
+        "Posicio": "Aler",
+        "Altura": "190.75",
+        "Pes": "81.23",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Alexi Casilla",
+        "Equip": "MIN",
+        "Posicio": "Aler",
+        "Altura": "185.37",
+        "Pes": "68.4",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Alejandro Machado",
+        "Equip": "MIN",
+        "Posicio": "Aler",
+        "Altura": "193.42",
+        "Pes": "78.66",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Jason Bartlett",
+        "Equip": "MIN",
+        "Posicio": "Ala-pivot",
+        "Altura": "193.42",
+        "Pes": "76.95",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Luis Rodriguez",
+        "Equip": "MIN",
+        "Posicio": "Aler",
+        "Altura": "185.37",
+        "Pes": "76.95",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Jeff Cirillo",
+        "Equip": "MIN",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "37"
+    },
+    {
+        "Nom": "Nick Punto",
+        "Equip": "MIN",
+        "Posicio": "Aler",
+        "Altura": "185.37",
+        "Pes": "75.24",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Jason Tyner",
+        "Equip": "MIN",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "68.4",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Michael Cuddyer",
+        "Equip": "MIN",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "94.91",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Torii Hunter",
+        "Equip": "MIN",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "90.2",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Lew Ford",
+        "Equip": "MIN",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "83.36",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Jason Kubel",
+        "Equip": "MIN",
+        "Posicio": "Escorta",
+        "Altura": "190.75",
+        "Pes": "85.5",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Josh Rabe",
+        "Equip": "MIN",
+        "Posicio": "Aler",
+        "Altura": "198.81",
+        "Pes": "89.78",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Rondell White",
+        "Equip": "MIN",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "96.19",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Ramon Ortiz",
+        "Equip": "MIN",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "74.81",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Johan Santana",
+        "Equip": "MIN",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "88.06",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Carlos Silva",
+        "Equip": "MIN",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "102.6",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Matt Garza",
+        "Equip": "MIN",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "79.09",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Boof Bonser",
+        "Equip": "MIN",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "111.15",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Francisco Liriano",
+        "Equip": "MIN",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "79.09",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Scott Baker",
+        "Equip": "MIN",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "94.48",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Pat Neshek",
+        "Equip": "MIN",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "87.64",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Glen Perkins",
+        "Equip": "MIN",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "85.5",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Julio DePaula",
+        "Equip": "MIN",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "72.67",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Juan Rincon",
+        "Equip": "MIN",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "85.93",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Jesse Crain",
+        "Equip": "MIN",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "87.64",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Matt Guerrier",
+        "Equip": "MIN",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "79.09",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Joe Nathan",
+        "Equip": "MIN",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "87.64",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Dennys Reyes",
+        "Equip": "MIN",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "104.74",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Brayan Pe?a",
+        "Equip": "ATL",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "94.05",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Brian McCann",
+        "Equip": "ATL",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "89.78",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Craig Wilson",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "94.05",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Chris Woodward",
+        "Equip": "ATL",
+        "Posicio": "Aler",
+        "Altura": "193.42",
+        "Pes": "79.09",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Pete Orr",
+        "Equip": "ATL",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "74.81",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Martin Prado",
+        "Equip": "ATL",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "72.67",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Tony Pe?a",
+        "Equip": "ATL",
+        "Posicio": "Ala-pivot",
+        "Altura": "196.11",
+        "Pes": "76.95",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Edgar Renteria",
+        "Equip": "ATL",
+        "Posicio": "Ala-pivot",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Chipper Jones",
+        "Equip": "ATL",
+        "Posicio": "Aler",
+        "Altura": "204.17",
+        "Pes": "89.78",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Willy Aybar",
+        "Equip": "ATL",
+        "Posicio": "Aler",
+        "Altura": "193.42",
+        "Pes": "74.81",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Jeff Francoeur",
+        "Equip": "ATL",
+        "Posicio": "Escorta",
+        "Altura": "204.17",
+        "Pes": "94.05",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Matt Diaz",
+        "Equip": "ATL",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "88.06",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Kelly Johnson",
+        "Equip": "ATL",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "76.95",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Andruw Jones",
+        "Equip": "ATL",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "89.78",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Ryan Langerhans",
+        "Equip": "ATL",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "83.36",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Scott Thorman",
+        "Equip": "ATL",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "85.5",
+        "Edat": "25"
+    },
+    {
+        "Nom": "T.J. Bohn",
+        "Equip": "ATL",
+        "Posicio": "Escorta",
+        "Altura": "206.86",
+        "Pes": "85.5",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Tim Hudson",
+        "Equip": "ATL",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "70.11",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Jonathan Johnson",
+        "Equip": "ATL",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "76.95",
+        "Edat": "33"
+    },
+    {
+        "Nom": "John Smoltz",
+        "Equip": "ATL",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "94.05",
+        "Edat": "40"
+    },
+    {
+        "Nom": "Mike Hampton",
+        "Equip": "ATL",
+        "Posicio": "Base",
+        "Altura": "188.06",
+        "Pes": "83.36",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Kyle Davies",
+        "Equip": "ATL",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "87.64",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Chuck James",
+        "Equip": "ATL",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "72.67",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Phil Stockman",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Altura": "214.93",
+        "Pes": "102.6",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Macay McBride",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "89.78",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Joey Devine",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "83.36",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Peter Moylan",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Mike Gonzalez",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "87.64",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Lance Cormier",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "82.08",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Blaine Boyer",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "81.23",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Manny Acosta",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "72.67",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Bob Wickman",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "102.6",
+        "Edat": "38"
+    },
+    {
+        "Nom": "Tanyon Sturtze",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "85.5",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Oscar Villarreal",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "87.64",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Rafael Soriano",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "74.81",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Chad Paronto",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "106.88",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Tyler Yates",
+        "Equip": "ATL",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "94.05",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Henry Blanco",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "95.76",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Michael Barrett",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "89.78",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Geovany Soto",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "83.36",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Scott Moore",
+        "Equip": "CHC",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "76.95",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Derrek Lee",
+        "Equip": "CHC",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "104.74",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Ryan Theriot",
+        "Equip": "CHC",
+        "Posicio": "Aler",
+        "Altura": "190.75",
+        "Pes": "74.81",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Ronny Cedeno",
+        "Equip": "CHC",
+        "Posicio": "Ala-pivot",
+        "Altura": "193.42",
+        "Pes": "76.95",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Aramis Ramirez",
+        "Equip": "CHC",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "91.91",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Cesar Izturis",
+        "Equip": "CHC",
+        "Posicio": "Aler",
+        "Altura": "185.37",
+        "Pes": "74.81",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Alfonso Soriano",
+        "Equip": "CHC",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "76.95",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Jacque Jones",
+        "Equip": "CHC",
+        "Posicio": "Escorta",
+        "Altura": "188.06",
+        "Pes": "83.36",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Daryle Ward",
+        "Equip": "CHC",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "98.33",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Cliff Floyd",
+        "Equip": "CHC",
+        "Posicio": "Escorta",
+        "Altura": "204.17",
+        "Pes": "98.33",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Mark DeRosa",
+        "Equip": "CHC",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "87.64",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Matt Murton",
+        "Equip": "CHC",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "91.91",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Buck Coats",
+        "Equip": "CHC",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "83.36",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Angel Pagan",
+        "Equip": "CHC",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "76.95",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Sean Marshall",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Altura": "212.24",
+        "Pes": "87.64",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Carlos Marmol",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "76.95",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Ryan O'Malley",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Juan Mateo",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "76.95",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Rich Hill",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Altura": "206.86",
+        "Pes": "81.23",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Angel Guzman",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "81.23",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Wade Miller",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "94.05",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Jason Marquis",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "89.78",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Carlos Zambrano",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Altura": "206.86",
+        "Pes": "109.01",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Ted Lilly",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Mark Prior",
+        "Equip": "CHC",
+        "Posicio": "Base",
+        "Altura": "206.86",
+        "Pes": "98.33",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Neal Cotts",
+        "Equip": "CHC",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Will Ohman",
+        "Equip": "CHC",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "87.64",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Scott Eyre",
+        "Equip": "CHC",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "89.78",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Kerry Wood",
+        "Equip": "CHC",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "96.19",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Ryan Dempster",
+        "Equip": "CHC",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "91.91",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Bob Howry",
+        "Equip": "CHC",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "94.05",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Mike Wuertz",
+        "Equip": "CHC",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "87.64",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Roberto Novoa",
+        "Equip": "CHC",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "85.5",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Chris Snyder",
+        "Equip": "ARZ",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "94.05",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Miguel Montero",
+        "Equip": "ARZ",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "84.22",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Conor Jackson",
+        "Equip": "ARZ",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "96.19",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Robby Hammock",
+        "Equip": "ARZ",
+        "Posicio": "Pivot",
+        "Altura": "188.06",
+        "Pes": "79.94",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Tony Clark",
+        "Equip": "ARZ",
+        "Posicio": "Pivot",
+        "Altura": "212.24",
+        "Pes": "104.74",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Orlando Hudson",
+        "Equip": "ARZ",
+        "Posicio": "Aler",
+        "Altura": "193.42",
+        "Pes": "79.09",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Stephen Drew",
+        "Equip": "ARZ",
+        "Posicio": "Ala-pivot",
+        "Altura": "193.42",
+        "Pes": "79.09",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Alberto Callaspo",
+        "Equip": "ARZ",
+        "Posicio": "Ala-pivot",
+        "Altura": "188.06",
+        "Pes": "74.81",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Chad Tracy",
+        "Equip": "ARZ",
+        "Posicio": "Aler",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Chris Young",
+        "Equip": "ARZ",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "76.95",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Scott Hairston",
+        "Equip": "ARZ",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "80.37",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Carlos Quentin",
+        "Equip": "ARZ",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "96.19",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Jeff DaVanon",
+        "Equip": "ARZ",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "85.5",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Eric Byrnes",
+        "Equip": "ARZ",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "89.78",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Livan Hernandez",
+        "Equip": "ARZ",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "104.74",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Doug Davis",
+        "Equip": "ARZ",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "91.06",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Randy Johnson",
+        "Equip": "ARZ",
+        "Posicio": "Base",
+        "Altura": "220.29",
+        "Pes": "98.75",
+        "Edat": "43"
+    },
+    {
+        "Nom": "Juan Cruz",
+        "Equip": "ARZ",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "70.54",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Brandon Webb",
+        "Equip": "ARZ",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "97.47",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Enrique Gonzalez",
+        "Equip": "ARZ",
+        "Posicio": "Base",
+        "Altura": "188.06",
+        "Pes": "89.78",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Dana Eveland",
+        "Equip": "ARZ",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "106.88",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Brandon Medders",
+        "Equip": "ARZ",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "81.65",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Tony Pe?a",
+        "Equip": "ARZ",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "81.23",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Doug Slaten",
+        "Equip": "ARZ",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "85.5",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Edgar Gonzalez",
+        "Equip": "ARZ",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "91.91",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Jose Valverde",
+        "Equip": "ARZ",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "108.59",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Jorge Julio",
+        "Equip": "ARZ",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "99.18",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Brandon Lyon",
+        "Equip": "ARZ",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "76.95",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Miguel Olivo",
+        "Equip": "FLA",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "91.91",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Matt Treanor",
+        "Equip": "FLA",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "94.05",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Mike Jacobs",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "76.95",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Dan Uggla",
+        "Equip": "FLA",
+        "Posicio": "Aler",
+        "Altura": "190.75",
+        "Pes": "85.5",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Robert Andino",
+        "Equip": "FLA",
+        "Posicio": "Ala-pivot",
+        "Altura": "193.42",
+        "Pes": "72.67",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Hanley Ramirez",
+        "Equip": "FLA",
+        "Posicio": "Ala-pivot",
+        "Altura": "201.5",
+        "Pes": "83.36",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Miguel Cabrera",
+        "Equip": "FLA",
+        "Posicio": "Aler",
+        "Altura": "198.81",
+        "Pes": "89.78",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Aaron Boone",
+        "Equip": "FLA",
+        "Posicio": "Aler",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Joe Borchard",
+        "Equip": "FLA",
+        "Posicio": "Escorta",
+        "Altura": "206.86",
+        "Pes": "94.05",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Alfredo Amezaga",
+        "Equip": "FLA",
+        "Posicio": "Escorta",
+        "Altura": "188.06",
+        "Pes": "70.54",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Cody Ross",
+        "Equip": "FLA",
+        "Posicio": "Escorta",
+        "Altura": "190.75",
+        "Pes": "76.95",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Josh Willingham",
+        "Equip": "FLA",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Jeremy Hermida",
+        "Equip": "FLA",
+        "Posicio": "Escorta",
+        "Altura": "204.17",
+        "Pes": "85.5",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Eric Reed",
+        "Equip": "FLA",
+        "Posicio": "Escorta",
+        "Altura": "190.75",
+        "Pes": "72.67",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Reggi Abercrombie",
+        "Equip": "FLA",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "95.76",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Ricky Nolasco",
+        "Equip": "FLA",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "94.05",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Anibal Sanchez",
+        "Equip": "FLA",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "76.95",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Scott Olsen",
+        "Equip": "FLA",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "84.64",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Josh Johnson",
+        "Equip": "FLA",
+        "Posicio": "Base",
+        "Altura": "212.24",
+        "Pes": "102.6",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Dontrelle Willis",
+        "Equip": "FLA",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "102.17",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Logan Kensing",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "79.09",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Sergio Mitre",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "89.78",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Kevin Gregg",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Altura": "209.55",
+        "Pes": "94.05",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Travis Bowyer",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "85.5",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Renyel Pinto",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "83.36",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Randy Messenger",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "94.05",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Yusmeiro Petit",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "98.33",
+        "Edat": "22"
+    },
+    {
+        "Nom": "Carlos Martinez",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "72.67",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Taylor Tankersley",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "94.05",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Henry Owens",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "98.33",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Jose Garcia",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "70.54",
+        "Edat": "22"
+    },
+    {
+        "Nom": "Matt Lindstrom",
+        "Equip": "FLA",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "87.64",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Javier Valentin",
+        "Equip": "CIN",
+        "Posicio": "Base",
+        "Altura": "188.06",
+        "Pes": "82.08",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Chad Moeller",
+        "Equip": "CIN",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "89.78",
+        "Edat": "32"
+    },
+    {
+        "Nom": "David Ross",
+        "Equip": "CIN",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "87.64",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Joey Votto",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "85.5",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Scott Hatteberg",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "89.78",
+        "Edat": "37"
+    },
+    {
+        "Nom": "Brandon Phillips",
+        "Equip": "CIN",
+        "Posicio": "Aler",
+        "Altura": "190.75",
+        "Pes": "79.09",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Juan Castro",
+        "Equip": "CIN",
+        "Posicio": "Ala-pivot",
+        "Altura": "190.75",
+        "Pes": "83.36",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Alex Gonzalez",
+        "Equip": "CIN",
+        "Posicio": "Ala-pivot",
+        "Altura": "193.42",
+        "Pes": "86.36",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Mark Bellhorn",
+        "Equip": "CIN",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "87.64",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Edwin Encarnacion",
+        "Equip": "CIN",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "83.36",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Jeff Keppinger",
+        "Equip": "CIN",
+        "Posicio": "Aler",
+        "Altura": "193.42",
+        "Pes": "76.95",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Norris Hopper",
+        "Equip": "CIN",
+        "Posicio": "Escorta",
+        "Altura": "185.37",
+        "Pes": "85.5",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Chris Denorfia",
+        "Equip": "CIN",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "79.09",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Adam Dunn",
+        "Equip": "CIN",
+        "Posicio": "Escorta",
+        "Altura": "209.55",
+        "Pes": "102.6",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Bubba Crosby",
+        "Equip": "CIN",
+        "Posicio": "Escorta",
+        "Altura": "190.75",
+        "Pes": "79.09",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Jeff Conine",
+        "Equip": "CIN",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "94.05",
+        "Edat": "41"
+    },
+    {
+        "Nom": "Ken Griffey Jr.",
+        "Equip": "CIN",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "87.64",
+        "Edat": "37"
+    },
+    {
+        "Nom": "Josh Hamilton",
+        "Equip": "CIN",
+        "Posicio": "Escorta",
+        "Altura": "204.17",
+        "Pes": "87.64",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Ryan Freel",
+        "Equip": "CIN",
+        "Posicio": "Escorta",
+        "Altura": "188.06",
+        "Pes": "76.95",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Kyle Lohse",
+        "Equip": "CIN",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "85.93",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Bronson Arroyo",
+        "Equip": "CIN",
+        "Posicio": "Base",
+        "Altura": "206.86",
+        "Pes": "81.23",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Eric Milton",
+        "Equip": "CIN",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "88.92",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Aaron Harang",
+        "Equip": "CIN",
+        "Posicio": "Base",
+        "Altura": "212.24",
+        "Pes": "102.6",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Kirk Saarloos",
+        "Equip": "CIN",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "94.05",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Elizardo Ramirez",
+        "Equip": "CIN",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "76.95",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Todd Coffey",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "98.33",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Brian Shackelford",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "83.36",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Bill Bray",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "91.91",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Bobby Livingston",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "81.23",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Matt Belisle",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "83.36",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Gary Majewski",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "91.91",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Mike Stanton",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "91.91",
+        "Edat": "40"
+    },
+    {
+        "Nom": "Brad Salmon",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "94.05",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Jared Burton",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "94.05",
+        "Edat": "26"
+    },
+    {
+        "Nom": "David Weathers",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "98.33",
+        "Edat": "37"
+    },
+    {
+        "Nom": "Rheal Cormier",
+        "Equip": "CIN",
+        "Posicio": "Pivot",
+        "Altura": "188.06",
+        "Pes": "83.36",
+        "Edat": "40"
+    },
+    {
+        "Nom": "Yorvit Torrealba",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "81.23",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Chris Iannetta",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "83.36",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Alvin Colina",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "89.35",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Todd Helton",
+        "Equip": "COL",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "87.21",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Jamey Carroll",
+        "Equip": "COL",
+        "Posicio": "Aler",
+        "Altura": "185.37",
+        "Pes": "72.67",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Kaz Matsui",
+        "Equip": "COL",
+        "Posicio": "Aler",
+        "Altura": "188.06",
+        "Pes": "79.09",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Troy Tulowitzki",
+        "Equip": "COL",
+        "Posicio": "Ala-pivot",
+        "Altura": "201.5",
+        "Pes": "87.64",
+        "Edat": "22"
+    },
+    {
+        "Nom": "Clint Barmes",
+        "Equip": "COL",
+        "Posicio": "Ala-pivot",
+        "Altura": "193.42",
+        "Pes": "74.81",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Garrett Atkins",
+        "Equip": "COL",
+        "Posicio": "Aler",
+        "Altura": "201.5",
+        "Pes": "89.78",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Ryan Spilborghs",
+        "Equip": "COL",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Cory Sullivan",
+        "Equip": "COL",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "76.95",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Jeff Salazar",
+        "Equip": "COL",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "76.95",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Willy Taveras",
+        "Equip": "COL",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "68.4",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Matt Holliday",
+        "Equip": "COL",
+        "Posicio": "Escorta",
+        "Altura": "204.17",
+        "Pes": "100.46",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Brad Hawpe",
+        "Equip": "COL",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "85.5",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Jeff Baker",
+        "Equip": "COL",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "89.78",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Javy Lopez",
+        "Equip": "COL",
+        "Posicio": "Aler",
+        "Altura": "201.5",
+        "Pes": "95.76",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Byung-Hyun Kim",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Altura": "185.37",
+        "Pes": "76.95",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Rodrigo Lopez",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Brian Lawrence",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "84.22",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Josh Fogg",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "86.78",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Aaron Cook",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "87.64",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Denny Bautista",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Altura": "206.86",
+        "Pes": "72.67",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Ubaldo Jimenez",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "85.5",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Jason Hirsh",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Altura": "214.93",
+        "Pes": "106.88",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Jeff Francis",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Altura": "206.86",
+        "Pes": "85.5",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Taylor Buchholz",
+        "Equip": "COL",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "94.05",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Ryan Speier",
+        "Equip": "COL",
+        "Posicio": "Pivot",
+        "Altura": "212.24",
+        "Pes": "85.5",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Ramon Ramirez",
+        "Equip": "COL",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "81.23",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Manny Corpas",
+        "Equip": "COL",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "72.67",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Juan Morillo",
+        "Equip": "COL",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Brian Fuentes",
+        "Equip": "COL",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "94.05",
+        "Edat": "32"
+    },
+    {
+        "Nom": "LaTroy Hawkins",
+        "Equip": "COL",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "91.91",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Tom Martin",
+        "Equip": "COL",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "88.06",
+        "Edat": "37"
+    },
+    {
+        "Nom": "Jeremy Affeldt",
+        "Equip": "COL",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "91.91",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Paul Lo Duca",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Altura": "188.06",
+        "Pes": "79.09",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Ramon Castro",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "100.46",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Julio Franco",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "80.37",
+        "Edat": "49"
+    },
+    {
+        "Nom": "Carlos Delgado",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "98.33",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Jose Valentin",
+        "Equip": "NYM",
+        "Posicio": "Aler",
+        "Altura": "188.06",
+        "Pes": "83.36",
+        "Edat": "37"
+    },
+    {
+        "Nom": "Anderson Hernandez",
+        "Equip": "NYM",
+        "Posicio": "Aler",
+        "Altura": "185.37",
+        "Pes": "71.82",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Damion Easley",
+        "Equip": "NYM",
+        "Posicio": "Ala-pivot",
+        "Altura": "190.75",
+        "Pes": "81.23",
+        "Edat": "37"
+    },
+    {
+        "Nom": "Jose Reyes",
+        "Equip": "NYM",
+        "Posicio": "Ala-pivot",
+        "Altura": "193.42",
+        "Pes": "68.4",
+        "Edat": "24"
+    },
+    {
+        "Nom": "David Wright",
+        "Equip": "NYM",
+        "Posicio": "Aler",
+        "Altura": "193.42",
+        "Pes": "85.5",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Ben Johnson",
+        "Equip": "NYM",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Endy Chavez",
+        "Equip": "NYM",
+        "Posicio": "Escorta",
+        "Altura": "188.06",
+        "Pes": "80.8",
+        "Edat": "29"
+    },
+    {
+        "Nom": "David Newhan",
+        "Equip": "NYM",
+        "Posicio": "Escorta",
+        "Altura": "188.06",
+        "Pes": "76.95",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Carlos Beltran",
+        "Equip": "NYM",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Shawn Green",
+        "Equip": "NYM",
+        "Posicio": "Escorta",
+        "Altura": "204.17",
+        "Pes": "85.5",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Moises Alou",
+        "Equip": "NYM",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "94.05",
+        "Edat": "41"
+    },
+    {
+        "Nom": "Lastings Milledge",
+        "Equip": "NYM",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "79.94",
+        "Edat": "22"
+    },
+    {
+        "Nom": "Alay Soler",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "102.6",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Mike Pelfrey",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Altura": "212.24",
+        "Pes": "81.23",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Pedro Martinez",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "76.95",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Tom Glavine",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "79.09",
+        "Edat": "41"
+    },
+    {
+        "Nom": "Chan Ho Park",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "89.78",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Orlando Hernandez",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "94.05",
+        "Edat": "37"
+    },
+    {
+        "Nom": "Dave Williams",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "93.62",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Oliver Perez",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "81.23",
+        "Edat": "26"
+    },
+    {
+        "Nom": "John Maine",
+        "Equip": "NYM",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "82.51",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Marcos Carvajal",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "74.81",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Ambiorix Burgos",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "76.95",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Jason Vargas",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "91.91",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Jon Adkins",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "89.78",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Juan Padilla",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "85.5",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Duaner Sanchez",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "81.23",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Pedro Feliciano",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Altura": "188.06",
+        "Pes": "79.09",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Aaron Heilman",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "94.05",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Jorge Sosa",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "72.67",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Scott Schoeneweis",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "83.36",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Guillermo Mota",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "87.64",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Billy Wagner",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "83.36",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Philip Humber",
+        "Equip": "NYM",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "89.78",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Brad Ausmus",
+        "Equip": "HOU",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "81.23",
+        "Edat": "38"
+    },
+    {
+        "Nom": "Humberto Quintero",
+        "Equip": "HOU",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Hector Gimenez",
+        "Equip": "HOU",
+        "Posicio": "Base",
+        "Altura": "188.06",
+        "Pes": "76.95",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Lance Berkman",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "94.05",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Mike Lamb",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Mark Loretta",
+        "Equip": "HOU",
+        "Posicio": "Aler",
+        "Altura": "193.42",
+        "Pes": "79.52",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Craig Biggio",
+        "Equip": "HOU",
+        "Posicio": "Aler",
+        "Altura": "190.75",
+        "Pes": "79.09",
+        "Edat": "41"
+    },
+    {
+        "Nom": "Brooks Conrad",
+        "Equip": "HOU",
+        "Posicio": "Aler",
+        "Altura": "190.75",
+        "Pes": "81.23",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Chris Burke",
+        "Equip": "HOU",
+        "Posicio": "Aler",
+        "Altura": "190.75",
+        "Pes": "76.95",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Eric Bruntlett",
+        "Equip": "HOU",
+        "Posicio": "Aler",
+        "Altura": "193.42",
+        "Pes": "81.23",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Adam Everett",
+        "Equip": "HOU",
+        "Posicio": "Ala-pivot",
+        "Altura": "193.42",
+        "Pes": "72.67",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Morgan Ensberg",
+        "Equip": "HOU",
+        "Posicio": "Aler",
+        "Altura": "198.81",
+        "Pes": "89.78",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Carlos Lee",
+        "Equip": "HOU",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "102.6",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Jason Lane",
+        "Equip": "HOU",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "94.05",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Orlando Palmeiro",
+        "Equip": "HOU",
+        "Posicio": "Escorta",
+        "Altura": "190.75",
+        "Pes": "76.95",
+        "Edat": "38"
+    },
+    {
+        "Nom": "Luke Scott",
+        "Equip": "HOU",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "89.78",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Charlton Jimerson",
+        "Equip": "HOU",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "89.78",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Fernando Nieve",
+        "Equip": "HOU",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "83.36",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Wandy Rodriguez",
+        "Equip": "HOU",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "68.4",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Brandon Backe",
+        "Equip": "HOU",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "76.95",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Matt Albers",
+        "Equip": "HOU",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "87.64",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Woody Williams",
+        "Equip": "HOU",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "85.5",
+        "Edat": "41"
+    },
+    {
+        "Nom": "Roy Oswalt",
+        "Equip": "HOU",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "79.09",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Jason Jennings",
+        "Equip": "HOU",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "104.74",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Miguel Asencio",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "81.23",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Brad Lidge",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "89.78",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Trever Miller",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "85.5",
+        "Edat": "34"
+    },
+    {
+        "Nom": "David Borkowski",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Dan Wheeler",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "94.91",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Paul Estrada",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "91.91",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Lincoln Holdzkom",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "102.6",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Chris Sampson",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "72.67",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Chad Qualls",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "94.05",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Ezequiel Astacio",
+        "Equip": "HOU",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "66.69",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Mike Lieberthal",
+        "Equip": "LA",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "81.23",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Russell Martin",
+        "Equip": "LA",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "86.36",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Olmedo Saenz",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "94.48",
+        "Edat": "36"
+    },
+    {
+        "Nom": "James Loney",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "85.5",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Nomar Garciaparra",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "81.23",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Jeff Kent",
+        "Equip": "LA",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "89.78",
+        "Edat": "39"
+    },
+    {
+        "Nom": "Ramon Martinez",
+        "Equip": "LA",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Marlon Anderson",
+        "Equip": "LA",
+        "Posicio": "Aler",
+        "Altura": "190.75",
+        "Pes": "85.5",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Rafael Furcal",
+        "Equip": "LA",
+        "Posicio": "Ala-pivot",
+        "Altura": "188.06",
+        "Pes": "70.54",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Wilson Betemit",
+        "Equip": "LA",
+        "Posicio": "Aler",
+        "Altura": "201.5",
+        "Pes": "81.23",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Andy LaRoche",
+        "Equip": "LA",
+        "Posicio": "Aler",
+        "Altura": "190.75",
+        "Pes": "79.09",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Matt Kemp",
+        "Equip": "LA",
+        "Posicio": "Escorta",
+        "Altura": "204.17",
+        "Pes": "98.33",
+        "Edat": "22"
+    },
+    {
+        "Nom": "Andre Ethier",
+        "Equip": "LA",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "88.92",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Delwyn Young",
+        "Equip": "LA",
+        "Posicio": "Escorta",
+        "Altura": "182.68",
+        "Pes": "89.35",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Jason Repko",
+        "Equip": "LA",
+        "Posicio": "Escorta",
+        "Altura": "190.75",
+        "Pes": "74.81",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Juan Pierre",
+        "Equip": "LA",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "76.95",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Luis Gonzalez",
+        "Equip": "LA",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "39"
+    },
+    {
+        "Nom": "Jason Schmidt",
+        "Equip": "LA",
+        "Posicio": "Base",
+        "Altura": "206.86",
+        "Pes": "87.64",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Randy Wolf",
+        "Equip": "LA",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "85.5",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Brad Penny",
+        "Equip": "LA",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "106.88",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Derek Lowe",
+        "Equip": "LA",
+        "Posicio": "Base",
+        "Altura": "209.55",
+        "Pes": "89.78",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Mark Hendrickson",
+        "Equip": "LA",
+        "Posicio": "Base",
+        "Altura": "217.6",
+        "Pes": "98.33",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Chad Billingsley",
+        "Equip": "LA",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "104.31",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Takashi Saito",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "86.36",
+        "Edat": "37"
+    },
+    {
+        "Nom": "Jonathan Broxton",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "102.6",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Hong-Chih Kuo",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "85.5",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Eric Stults",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "91.91",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Chin-Hui Tsao",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "75.67",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Tim Hamulack",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "89.78",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Yhency Brazoban",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "72.67",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Brett Tomko",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "91.91",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Joe Beimel",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "92.77",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Elmer Dessens",
+        "Equip": "LA",
+        "Posicio": "Pivot",
+        "Altura": "188.06",
+        "Pes": "84.64",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Ryan Budde",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "85.5",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Rod Barajas",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "94.05",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Carlos Ruiz",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "72.67",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Chris Coste",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Ryan Howard",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "98.33",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Wes Helms",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "98.75",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Chase Utley",
+        "Equip": "PHI",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "78.23",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Danny Sandoval",
+        "Equip": "PHI",
+        "Posicio": "Aler",
+        "Altura": "190.75",
+        "Pes": "82.08",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Jimmy Rollins",
+        "Equip": "PHI",
+        "Posicio": "Ala-pivot",
+        "Altura": "182.68",
+        "Pes": "71.39",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Abraham Nu?ez",
+        "Equip": "PHI",
+        "Posicio": "Aler",
+        "Altura": "190.75",
+        "Pes": "81.23",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Michael Bourn",
+        "Equip": "PHI",
+        "Posicio": "Escorta",
+        "Altura": "190.75",
+        "Pes": "76.95",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Chris Roberson",
+        "Equip": "PHI",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "76.95",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Jayson Werth",
+        "Equip": "PHI",
+        "Posicio": "Escorta",
+        "Altura": "206.86",
+        "Pes": "91.91",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Shane Victorino",
+        "Equip": "PHI",
+        "Posicio": "Escorta",
+        "Altura": "185.37",
+        "Pes": "68.4",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Aaron Rowand",
+        "Equip": "PHI",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "87.64",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Pat Burrell",
+        "Equip": "PHI",
+        "Posicio": "Escorta",
+        "Altura": "204.17",
+        "Pes": "95.33",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Greg Dobbs",
+        "Equip": "PHI",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "87.64",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Cole Hamels",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "74.81",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Alfredo Simon",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "72.67",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Scott Mathieson",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "81.23",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Freddy Garcia",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "102.6",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Jamie Moyer",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "74.81",
+        "Edat": "44"
+    },
+    {
+        "Nom": "Jon Lieber",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "98.33",
+        "Edat": "37"
+    },
+    {
+        "Nom": "Brett Myers",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "95.33",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Adam Eaton",
+        "Equip": "PHI",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "83.79",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Geoff Geary",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "71.39",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Clay Condrey",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "83.36",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Ryan Madson",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Altura": "209.55",
+        "Pes": "81.23",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Antonio Alfonseca",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "106.88",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Tom Gordon",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Altura": "188.06",
+        "Pes": "81.23",
+        "Edat": "39"
+    },
+    {
+        "Nom": "Brian Sanches",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "81.23",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Jim Ed Warden",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Altura": "212.24",
+        "Pes": "81.23",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Anderson Garcia",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "72.67",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Eude Brito",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "68.4",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Fabio Castro",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Altura": "182.68",
+        "Pes": "64.12",
+        "Edat": "22"
+    },
+    {
+        "Nom": "Matt Smith",
+        "Equip": "PHI",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "96.19",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Damian Miller",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "94.05",
+        "Edat": "37"
+    },
+    {
+        "Nom": "Johnny Estrada",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "89.35",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Mike Rivera",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "89.78",
+        "Edat": "30"
+    },
+    {
+        "Nom": "J.D. Closser",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Altura": "188.06",
+        "Pes": "75.24",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Prince Fielder",
+        "Equip": "MLW",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "111.15",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Rickie Weeks",
+        "Equip": "MLW",
+        "Posicio": "Aler",
+        "Altura": "193.42",
+        "Pes": "83.36",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Tony Graffanino",
+        "Equip": "MLW",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Craig Counsell",
+        "Equip": "MLW",
+        "Posicio": "Ala-pivot",
+        "Altura": "193.42",
+        "Pes": "78.66",
+        "Edat": "37"
+    },
+    {
+        "Nom": "J.J. Hardy",
+        "Equip": "MLW",
+        "Posicio": "Ala-pivot",
+        "Altura": "198.81",
+        "Pes": "76.95",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Bill Hall",
+        "Equip": "MLW",
+        "Posicio": "Ala-pivot",
+        "Altura": "193.42",
+        "Pes": "83.36",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Vinny Rottino",
+        "Equip": "MLW",
+        "Posicio": "Aler",
+        "Altura": "193.42",
+        "Pes": "83.36",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Corey Koskie",
+        "Equip": "MLW",
+        "Posicio": "Aler",
+        "Altura": "201.5",
+        "Pes": "93.62",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Kevin Mench",
+        "Equip": "MLW",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "96.19",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Geoff Jenkins",
+        "Equip": "MLW",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "90.63",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Brady Clark",
+        "Equip": "MLW",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "86.36",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Tony Gwynn Jr.",
+        "Equip": "MLW",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "79.09",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Corey Hart",
+        "Equip": "MLW",
+        "Posicio": "Escorta",
+        "Altura": "209.55",
+        "Pes": "85.5",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Gabe Gross",
+        "Equip": "MLW",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "89.35",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Laynce Nix",
+        "Equip": "MLW",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "85.5",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Drew Anderson",
+        "Equip": "MLW",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "83.36",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Claudio Vargas",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "97.47",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Chris Capuano",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "89.78",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Ben Hendrickson",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "81.23",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Dave Bush",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "90.63",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Carlos Villanueva",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "81.23",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Ben Sheets",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "93.19",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Jeff Suppan",
+        "Equip": "MLW",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "94.05",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Brian Shouse",
+        "Equip": "MLW",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "81.23",
+        "Edat": "38"
+    },
+    {
+        "Nom": "Francisco Cordero",
+        "Equip": "MLW",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "100.46",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Derrick Turnbow",
+        "Equip": "MLW",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "89.78",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Matt Wise",
+        "Equip": "MLW",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "85.5",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Grant Balfour",
+        "Equip": "MLW",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "80.37",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Dennis Sarfate",
+        "Equip": "MLW",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "89.78",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Jose Capellan",
+        "Equip": "MLW",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "100.46",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Greg Aquino",
+        "Equip": "MLW",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "80.37",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Josh Bard",
+        "Equip": "SD",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "91.91",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Rob Bowen",
+        "Equip": "SD",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "92.34",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Adrian Gonzalez",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "94.05",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Marcus Giles",
+        "Equip": "SD",
+        "Posicio": "Aler",
+        "Altura": "182.68",
+        "Pes": "76.95",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Todd Walker",
+        "Equip": "SD",
+        "Posicio": "Aler",
+        "Altura": "193.42",
+        "Pes": "79.09",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Geoff Blum",
+        "Equip": "SD",
+        "Posicio": "Ala-pivot",
+        "Altura": "201.5",
+        "Pes": "85.5",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Khalil Greene",
+        "Equip": "SD",
+        "Posicio": "Ala-pivot",
+        "Altura": "190.75",
+        "Pes": "89.78",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Paul McAnulty",
+        "Equip": "SD",
+        "Posicio": "Escorta",
+        "Altura": "188.06",
+        "Pes": "94.05",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Terrmel Sledge",
+        "Equip": "SD",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "79.09",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Jack Cust",
+        "Equip": "SD",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "98.75",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Jose Cruz Jr.",
+        "Equip": "SD",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "89.78",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Russell Branyan",
+        "Equip": "SD",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "83.36",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Mike Cameron",
+        "Equip": "SD",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Brian Giles",
+        "Equip": "SD",
+        "Posicio": "Escorta",
+        "Altura": "188.06",
+        "Pes": "87.64",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Kevin Kouzmanoff",
+        "Equip": "SD",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Mike Thompson",
+        "Equip": "SD",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "85.5",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Clay Hensley",
+        "Equip": "SD",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "81.23",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Chris Young",
+        "Equip": "SD",
+        "Posicio": "Base",
+        "Altura": "220.29",
+        "Pes": "106.88",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Greg Maddux",
+        "Equip": "SD",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "79.09",
+        "Edat": "41"
+    },
+    {
+        "Nom": "Jake Peavy",
+        "Equip": "SD",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "76.95",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Scott Cassidy",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "72.67",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Scott Strickland",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "76.95",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Scott Linebrink",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "88.92",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Doug Brocail",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "100.46",
+        "Edat": "40"
+    },
+    {
+        "Nom": "Trevor Hoffman",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "91.91",
+        "Edat": "39"
+    },
+    {
+        "Nom": "Heath Bell",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "104.31",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Royce Ring",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "94.05",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Cla Meredith",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "79.09",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Andrew Brown",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Altura": "209.55",
+        "Pes": "98.33",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Mike Adams",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "81.23",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Justin Hampson",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Kevin Cameron",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "76.95",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Ryan Ketchner",
+        "Equip": "SD",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Brian Schneider",
+        "Equip": "WAS",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "83.79",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Jesus Flores",
+        "Equip": "WAS",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "76.95",
+        "Edat": "22"
+    },
+    {
+        "Nom": "Larry Broadway",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "98.33",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Nick Johnson",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "95.76",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Bernie Castro",
+        "Equip": "WAS",
+        "Posicio": "Aler",
+        "Altura": "188.06",
+        "Pes": "68.4",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Josh Wilson",
+        "Equip": "WAS",
+        "Posicio": "Ala-pivot",
+        "Altura": "196.11",
+        "Pes": "76.09",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Cristian Guzman",
+        "Equip": "WAS",
+        "Posicio": "Ala-pivot",
+        "Altura": "193.42",
+        "Pes": "87.64",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Felipe Lopez",
+        "Equip": "WAS",
+        "Posicio": "Ala-pivot",
+        "Altura": "196.11",
+        "Pes": "79.09",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Ryan Zimmerman",
+        "Equip": "WAS",
+        "Posicio": "Aler",
+        "Altura": "201.5",
+        "Pes": "89.78",
+        "Edat": "22"
+    },
+    {
+        "Nom": "Nook Logan",
+        "Equip": "WAS",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "76.95",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Ryan Church",
+        "Equip": "WAS",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Kory Casto",
+        "Equip": "WAS",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Mike Restovich",
+        "Equip": "WAS",
+        "Posicio": "Escorta",
+        "Altura": "204.17",
+        "Pes": "109.87",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Alex Escobar",
+        "Equip": "WAS",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Austin Kearns",
+        "Equip": "WAS",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "94.05",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Chris Snelling",
+        "Equip": "WAS",
+        "Posicio": "Escorta",
+        "Altura": "188.06",
+        "Pes": "70.54",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Billy Traber",
+        "Equip": "WAS",
+        "Posicio": "Base",
+        "Altura": "206.86",
+        "Pes": "87.64",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Tim Redding",
+        "Equip": "WAS",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "85.5",
+        "Edat": "29"
+    },
+    {
+        "Nom": "John Patterson",
+        "Equip": "WAS",
+        "Posicio": "Base",
+        "Altura": "206.86",
+        "Pes": "88.92",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Shawn Hill",
+        "Equip": "WAS",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "79.09",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Joel Hanrahan",
+        "Equip": "WAS",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "91.91",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Mike O'Connor",
+        "Equip": "WAS",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "72.67",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Emiliano Fruto",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "100.46",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Chris Schroder",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "89.78",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Brett Campbell",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "72.67",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Beltran Perez",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "76.95",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Levale Speigner",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "72.67",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Jason Bergmann",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "81.23",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Saul Rivera",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "64.12",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Chris Booker",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "98.33",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Micah Bowie",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "86.78",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Jon Rauch",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Altura": "222.99",
+        "Pes": "111.15",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Jerome Williams",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "105.16",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Luis Ayala",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "79.52",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Ryan Wagner",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "89.78",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Chad Cordero",
+        "Equip": "WAS",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "84.64",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Humberto Cota",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "89.78",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Ronny Paulino",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "91.91",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Adam LaRoche",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "76.95",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Ryan Doumit",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "85.5",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Brad Eldred",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "104.74",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Jose Castillo",
+        "Equip": "PIT",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "85.5",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Jack Wilson",
+        "Equip": "PIT",
+        "Posicio": "Ala-pivot",
+        "Altura": "193.42",
+        "Pes": "82.08",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Freddy Sanchez",
+        "Equip": "PIT",
+        "Posicio": "Aler",
+        "Altura": "188.06",
+        "Pes": "82.08",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Jason Bay",
+        "Equip": "PIT",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Jose Bautista",
+        "Equip": "PIT",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "82.08",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Xavier Nady",
+        "Equip": "PIT",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "87.64",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Jody Gerut",
+        "Equip": "PIT",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "81.23",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Nate McLouth",
+        "Equip": "PIT",
+        "Posicio": "Escorta",
+        "Altura": "190.75",
+        "Pes": "79.52",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Chris Duffy",
+        "Equip": "PIT",
+        "Posicio": "Escorta",
+        "Altura": "188.06",
+        "Pes": "72.67",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Rajai Davis",
+        "Equip": "PIT",
+        "Posicio": "Escorta",
+        "Altura": "190.75",
+        "Pes": "84.22",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Shane Youman",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "93.62",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Yoslan Herrera",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Josh Shortslef",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "94.05",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Zach Duke",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "88.49",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Paul Maholm",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "96.19",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Tom Gorzelanny",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "88.49",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Shawn Chacon",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "90.63",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Tony Armas Jr.",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "96.19",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Ian Snell",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "72.67",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Sean Burnett",
+        "Equip": "PIT",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "81.23",
+        "Edat": "24"
+    },
+    {
+        "Nom": "John Grabow",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "89.78",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Marty McLeary",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "98.33",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Salomon Torres",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Altura": "190.75",
+        "Pes": "89.78",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Damaso Marte",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Matt Capps",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "101.75",
+        "Edat": "23"
+    },
+    {
+        "Nom": "Josh Sharpless",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "100.04",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Bryan Bullington",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "94.91",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Jonah Bayliss",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "85.5",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Brian Rogers",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "81.23",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Juan Perez",
+        "Equip": "PIT",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "72.67",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Bengie Molina",
+        "Equip": "SF",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "94.05",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Eliezer Alfonzo",
+        "Equip": "SF",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "95.33",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Lance Niekro",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "89.78",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Mark Sweeney",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "91.91",
+        "Edat": "37"
+    },
+    {
+        "Nom": "Ray Durham",
+        "Equip": "SF",
+        "Posicio": "Aler",
+        "Altura": "182.68",
+        "Pes": "83.79",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Kevin Frandsen",
+        "Equip": "SF",
+        "Posicio": "Aler",
+        "Altura": "193.42",
+        "Pes": "74.81",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Omar Vizquel",
+        "Equip": "SF",
+        "Posicio": "Ala-pivot",
+        "Altura": "185.37",
+        "Pes": "74.81",
+        "Edat": "40"
+    },
+    {
+        "Nom": "Rich Aurilia",
+        "Equip": "SF",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "80.8",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Pedro Feliz",
+        "Equip": "SF",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "87.64",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Todd Linden",
+        "Equip": "SF",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "89.78",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Dave Roberts",
+        "Equip": "SF",
+        "Posicio": "Escorta",
+        "Altura": "188.06",
+        "Pes": "76.95",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Jason Ellison",
+        "Equip": "SF",
+        "Posicio": "Escorta",
+        "Altura": "188.06",
+        "Pes": "76.95",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Randy Winn",
+        "Equip": "SF",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "84.22",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Ryan Klesko",
+        "Equip": "SF",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "94.05",
+        "Edat": "36"
+    },
+    {
+        "Nom": "Barry Bonds",
+        "Equip": "SF",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "97.47",
+        "Edat": "43"
+    },
+    {
+        "Nom": "Fred Lewis",
+        "Equip": "SF",
+        "Posicio": "Escorta",
+        "Altura": "198.81",
+        "Pes": "81.23",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Kelyn Acosta",
+        "Equip": "SF",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "87.21",
+        "Edat": "22"
+    },
+    {
+        "Nom": "Jonathan Sanchez",
+        "Equip": "SF",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "70.54",
+        "Edat": "24"
+    },
+    {
+        "Nom": "Matt Cain",
+        "Equip": "SF",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "92.34",
+        "Edat": "22"
+    },
+    {
+        "Nom": "Matt Morris",
+        "Equip": "SF",
+        "Posicio": "Base",
+        "Altura": "206.86",
+        "Pes": "94.05",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Russ Ortiz",
+        "Equip": "SF",
+        "Posicio": "Base",
+        "Altura": "196.11",
+        "Pes": "88.92",
+        "Edat": "33"
+    },
+    {
+        "Nom": "Noah Lowry",
+        "Equip": "SF",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "89.78",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Barry Zito",
+        "Equip": "SF",
+        "Posicio": "Base",
+        "Altura": "204.17",
+        "Pes": "91.91",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Vinnie Chulk",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "83.36",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Kevin Correia",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "85.5",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Steve Kline",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "91.91",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Armando Benitez",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "97.9",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Scott Munter",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Altura": "209.55",
+        "Pes": "102.6",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Jack Taschner",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "88.49",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Brian Wilson",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "87.64",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Merkin Valdez",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Altura": "206.86",
+        "Pes": "88.92",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Brad Hennessey",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "79.09",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Billy Sadler",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "81.23",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Pat Misch",
+        "Equip": "SF",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "72.67",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Gary Bennett",
+        "Equip": "STL",
+        "Posicio": "Base",
+        "Altura": "193.42",
+        "Pes": "88.92",
+        "Edat": "35"
+    },
+    {
+        "Nom": "Yadier Molina",
+        "Equip": "STL",
+        "Posicio": "Base",
+        "Altura": "190.75",
+        "Pes": "96.19",
+        "Edat": "25"
+    },
+    {
+        "Nom": "John Nelson",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "28"
+    },
+    {
+        "Nom": "Albert Pujols",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "96.19",
+        "Edat": "27"
+    },
+    {
+        "Nom": "Adam Kennedy",
+        "Equip": "STL",
+        "Posicio": "Aler",
+        "Altura": "196.11",
+        "Pes": "79.09",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Aaron Miles",
+        "Equip": "STL",
+        "Posicio": "Aler",
+        "Altura": "180.01",
+        "Pes": "76.95",
+        "Edat": "30"
+    },
+    {
+        "Nom": "David Eckstein",
+        "Equip": "STL",
+        "Posicio": "Ala-pivot",
+        "Altura": "180.01",
+        "Pes": "70.54",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Scott Rolen",
+        "Equip": "STL",
+        "Posicio": "Aler",
+        "Altura": "204.17",
+        "Pes": "102.6",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Scott Spiezio",
+        "Equip": "STL",
+        "Posicio": "Aler",
+        "Altura": "198.81",
+        "Pes": "94.05",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Jim Edmonds",
+        "Equip": "STL",
+        "Posicio": "Escorta",
+        "Altura": "196.11",
+        "Pes": "90.63",
+        "Edat": "37"
+    },
+    {
+        "Nom": "So Taguchi",
+        "Equip": "STL",
+        "Posicio": "Escorta",
+        "Altura": "188.06",
+        "Pes": "69.68",
+        "Edat": "38"
+    },
+    {
+        "Nom": "Juan Encarnacion",
+        "Equip": "STL",
+        "Posicio": "Escorta",
+        "Altura": "201.5",
+        "Pes": "91.91",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Skip Schumaker",
+        "Equip": "STL",
+        "Posicio": "Escorta",
+        "Altura": "188.06",
+        "Pes": "74.81",
+        "Edat": "27"
+    },
+    {
+        "Nom": "John Rodriguez",
+        "Equip": "STL",
+        "Posicio": "Escorta",
+        "Altura": "193.42",
+        "Pes": "87.64",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Chris Duncan",
+        "Equip": "STL",
+        "Posicio": "Escorta",
+        "Altura": "206.86",
+        "Pes": "89.78",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Adam Wainwright",
+        "Equip": "STL",
+        "Posicio": "Base",
+        "Altura": "212.24",
+        "Pes": "87.64",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Mark Mulder",
+        "Equip": "STL",
+        "Posicio": "Base",
+        "Altura": "209.55",
+        "Pes": "88.92",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Anthony Reyes",
+        "Equip": "STL",
+        "Posicio": "Base",
+        "Altura": "198.81",
+        "Pes": "91.91",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Ryan Franklin",
+        "Equip": "STL",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "76.95",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Kip Wells",
+        "Equip": "STL",
+        "Posicio": "Base",
+        "Altura": "201.5",
+        "Pes": "85.5",
+        "Edat": "30"
+    },
+    {
+        "Nom": "Chris Carpenter",
+        "Equip": "STL",
+        "Posicio": "Base",
+        "Altura": "209.55",
+        "Pes": "98.33",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Russ Springer",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Altura": "204.17",
+        "Pes": "90.2",
+        "Edat": "38"
+    },
+    {
+        "Nom": "Jason Isringhausen",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "98.33",
+        "Edat": "34"
+    },
+    {
+        "Nom": "Ricardo Rincon",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Altura": "185.37",
+        "Pes": "81.23",
+        "Edat": "37"
+    },
+    {
+        "Nom": "Braden Looper",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "94.05",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Randy Flores",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Altura": "193.42",
+        "Pes": "76.95",
+        "Edat": "32"
+    },
+    {
+        "Nom": "Josh Hancock",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "87.64",
+        "Edat": "29"
+    },
+    {
+        "Nom": "Brad Thompson",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "81.23",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Tyler Johnson",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Altura": "198.81",
+        "Pes": "76.95",
+        "Edat": "26"
+    },
+    {
+        "Nom": "Chris Narveson",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "87.64",
+        "Edat": "25"
+    },
+    {
+        "Nom": "Randy Keisler",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Altura": "201.5",
+        "Pes": "81.23",
+        "Edat": "31"
+    },
+    {
+        "Nom": "Josh Kinney",
+        "Equip": "STL",
+        "Posicio": "Pivot",
+        "Altura": "196.11",
+        "Pes": "83.36",
+        "Edat": "28"
+    }
+]
